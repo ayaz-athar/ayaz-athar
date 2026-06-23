@@ -9,26 +9,34 @@ Currently learning Python and exploring AI/ML through real-world projects.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayazathar.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayazathar)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ayazathar)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayaz-athar)
+<a href="https://ayazathar.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
+<a href="https://www.linkedin.com/in/ayazathar">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/_ayazathar">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/ayaz-athar">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </div>
 
 ---
 
 ## About Me
 
-```txt
+
 Name       : Ayaz Athar
 Role       : Frontend Developer
 Learning   : Python, AI/ML
 Focus      : Clean UI, Smooth UX, Practical Projects
 Currently  : Building projects and improving every day
-````
 
----
 
 ## Tech Stack
 
