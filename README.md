@@ -1,29 +1,32 @@
 <div align="center">
 
-# AYAZ ATHAR
+<h1>AYAZ ATHAR</h1>
 
-### Frontend Developer · Python Learner · AI/ML Enthusiast
+<h3>Frontend Developer · Python Learner · AI/ML Enthusiast</h3>
 
-I build clean, responsive, and user-friendly web experiences.  
+<p>
+I build clean, responsive, and user-friendly web experiences.<br>
 Currently learning Python and exploring AI/ML through real-world projects.
+</p>
 
 <br>
 
 <a href="https://ayazathar.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/ayazathar">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
-
+&nbsp;
 <a href="https://instagram.com/_ayazathar">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="https://github.com/ayaz-athar">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000" />
 </a>
 
-<a href="https://github.com/ayaz-athar">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 </div>
 
 ---
