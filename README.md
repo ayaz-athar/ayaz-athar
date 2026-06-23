@@ -57,7 +57,7 @@ Currently learning Python and exploring AI/ML through real-world projects.
 
 ## What I Do
 
-```txt
+
 Frontend Development  →  Responsive and clean websites
 Python Learning       →  Strong programming fundamentals
 AI/ML Exploration     →  Beginner-friendly machine learning projects
@@ -95,7 +95,7 @@ Project Building      →  Turning ideas into real working projects
 
 ## Current Learning Path
 
-```txt
+
 HTML / CSS / JavaScript
         ↓
 React
