@@ -31,39 +31,6 @@ Currently learning Python and exploring AI/ML through real-world projects.
 
 ---
 
-<div align="center">
-
-<h1>AYAZ ATHAR</h1>
-
-<h3>Frontend Developer · Python Learner · AI/ML Enthusiast</h3>
-
-<p>
-I build clean, responsive, and user-friendly web experiences.<br>
-Currently learning Python and exploring AI/ML through real-world projects.
-</p>
-
-<br>
-
-<a href="https://ayazathar.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ayazathar">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000" />
-</a>
-&nbsp;
-<a href="https://instagram.com/_ayazathar">
-  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=white&labelColor=000000" />
-</a>
-&nbsp;
-<a href="https://github.com/ayaz-athar">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000" />
-</a>
-
-</div>
-
----
-
 ## About Me
 
 * Frontend Developer focused on clean and responsive web design.
@@ -129,17 +96,37 @@ Currently learning Python and exploring AI/ML through real-world projects.
 
 ## Current Learning Path
 
-```txt
-HTML / CSS / JavaScript
-        ↓
-React
-        ↓
-Python
-        ↓
-AI / ML
-        ↓
-Real-world Projects
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>01</b></td>
+    <td><b>HTML / CSS / JavaScript</b></td>
+    <td>Building strong frontend basics</td>
+  </tr>
+  <tr>
+    <td align="center"><b>02</b></td>
+    <td><b>React</b></td>
+    <td>Creating modern and responsive interfaces</td>
+  </tr>
+  <tr>
+    <td align="center"><b>03</b></td>
+    <td><b>Python</b></td>
+    <td>Improving programming and problem-solving skills</td>
+  </tr>
+  <tr>
+    <td align="center"><b>04</b></td>
+    <td><b>AI / ML</b></td>
+    <td>Exploring machine learning through projects</td>
+  </tr>
+  <tr>
+    <td align="center"><b>05</b></td>
+    <td><b>Real-world Projects</b></td>
+    <td>Turning learning into practical work</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -148,4 +135,3 @@ Real-world Projects
 <h3>Learning daily. Building consistently. Improving always.</h3>
 
 </div>
-
