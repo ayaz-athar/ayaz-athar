@@ -1,64 +1,69 @@
-<h1 align="center">Hi, I'm Ayaz Athar</h1>
+<!-- Minimal Black & White GitHub Profile README -->
 
-<h3 align="center">
-  CSE Student | Python & AI/ML Learner | Frontend Developer
-</h3>
+<div align="center">
 
-<p align="center">
-  I enjoy building interactive websites and I am currently expanding my skills in
-  Python, Artificial Intelligence and Machine Learning.
-</p>
+# Ayaz Athar
 
----
+### Frontend Developer | Python Learner | AI/ML Enthusiast
 
-## 👨‍💻 Who am I?
+Building clean, responsive, and user-friendly web interfaces.  
+Currently learning **Python** and exploring **AI/ML** through practical projects.
 
-- 🎓 B.Tech Computer Science Engineering student
-- 💻 Frontend developer with experience in HTML, CSS and JavaScript
-- 🐍 Currently learning Python from the fundamentals
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🚀 Interested in building useful, creative and real-world projects
-- 🌱 Always learning and improving my development skills
+</div>
 
 ---
 
-## 🔭 What am I currently working on?
+## About Me
 
-- Strengthening my Python fundamentals
-- Learning NumPy, Pandas and data visualization
-- Understanding AI and Machine Learning concepts
-- Building frontend projects using HTML, CSS and JavaScript
-- Improving my problem-solving and GitHub skills
+```txt
+Name      : Ayaz Athar
+Role      : Frontend Developer
+Learning  : Python and AI/ML
+Focus     : Clean UI, smooth UX, and practical projects
+Goal      : To become better every day by learning and building
+<div align="center">
+Languages & Frontend
 
----
 
-## 🛠️ Tools and Technologies
 
-### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
-</p>
 
-### Currently Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
 
-### Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify" />
-</p>
+Learning & Tools
 
----
 
-## 🚀 Featured Interests
 
-```text
-🐍 Python Development
-🤖 Artificial Intelligence
-📊 Machine Learning
-🌐 Frontend Development
-🎨 Responsive Web Design
+
+
+
+
+
+</div>
+Frontend Development
+Python Practice
+AI/ML Basics
+GitHub Projects
+Real-world Mini Projects
+| Project              | Description                      | Link                                    |
+| -------------------- | -------------------------------- | --------------------------------------- |
+| Portfolio Website    | My personal developer portfolio  | [View](https://ayazathar.netlify.app/)  |
+| Flappy Boom          | A fun browser-based game         | [View](https://flappyboom.netlify.app/) |
+| Python Learning Repo | My Python learning journey       | Coming Soon                             |
+| AI/ML Projects       | Beginner-friendly AI/ML projects | Coming Soon                             |
+GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayaz-athar&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=ayaz-athar&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&hide_border=true" width="48%" /> </div> <br> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz-athar&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" width="42%" /> </div>
+Learning Path
+HTML / CSS / JavaScript
+        ↓
+React
+        ↓
+Python
+        ↓
+AI / ML
+        ↓
+Real-world Projects
+<div align="center">
+Learning daily. Building slowly. Improving always.
+</div> ```
