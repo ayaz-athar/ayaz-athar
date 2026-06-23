@@ -33,13 +33,11 @@ Currently learning Python and exploring AI/ML through real-world projects.
 
 ## About Me
 
-
-Name       : Ayaz Athar
-Role       : Frontend Developer
-Learning   : Python, AI/ML
-Focus      : Clean UI, Smooth UX, Practical Projects
-Currently  : Building projects and improving every day
-
+- Frontend Developer focused on clean and responsive web design.
+- Currently learning Python and exploring AI/ML.
+- Building practical projects to improve my skills.
+- Interested in clean UI, smooth UX, and real-world problem solving.
+- Using GitHub to document my learning journey and growth.
 
 ## Tech Stack
 
