@@ -71,7 +71,7 @@ Currently learning Python and exploring AI/ML through real-world projects.
 
 | Project            | Description                                | Link                                     |
 | ------------------ | ------------------------------------------ | ---------------------------------------- |
-| Personal Portfolio | My developer portfolio website             | [Visit](https://ayazathar.netlify.app/)  |
+| Personal Portfolio | My developer portfolio website             | [Visit](https://ayaz-portfolio-five.vercel.app/)  |
 | Flappy Boom        | A browser-based game project               | [Visit](https://flappyboom.netlify.app/) |
 | Python Practice    | My Python learning and practice repository | Coming Soon                              |
 | AI/ML Projects     | Beginner AI/ML projects and experiments    | Coming Soon                              |
