@@ -26,6 +26,10 @@ Currently learning Python and exploring AI/ML through real-world projects.
 <a href="https://github.com/ayaz-athar">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000" />
 </a>
+&nbsp;
+<a href="https://x.com/_ayazathar">
+<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000" />
+</a>
 
 </div>
 
