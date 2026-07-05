@@ -28,7 +28,7 @@ Currently learning Python and exploring AI/ML through real-world projects.
 </a>
 &nbsp;
 <a href="https://x.com/_ayazathar">
-<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/X(Twitter)-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000" />
 </a>
 
 </div>
