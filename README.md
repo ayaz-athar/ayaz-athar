@@ -38,10 +38,10 @@ class Ayaz:
         self.role = "Frontend Developer"
         self.currently_learning = ["Python", "AI/ML"]
         self.focus = "Clean UI, smooth UX, real-world problem solving"
+
     def philosophy(self):
         return "Document the journey. Ship real projects. Keep iterating."
 ```
-
 * 🎯 Frontend developer focused on clean, responsive, and intentional design
 * 🐍 Actively learning Python and building toward AI/ML fluency
 * 🧠 Currently building a full ML pipeline (fraud detection) end-to-end
