@@ -54,9 +54,9 @@ class Ayaz:
 
 <br>
 
-<img src="https://img.shields.io/badge/🔭_Currently_Building-Fraud_Detection_ML_Pipeline-1A1A1A?style=flat-square&labelColor=0D0D0D&color=1A1A1A" />
-<img src="https://img.shields.io/badge/🌱_Currently_Learning-Python_%7C_AI%2FML-1A1A1A?style=flat-square&labelColor=0D0D0D&color=1A1A1A" />
-<img src="https://img.shields.io/badge/📫_Reach_Me-ayaz.athar.44%40gmail.com-1A1A1A?style=flat-square&labelColor=0D0D0D&color=1A1A1A" />
+<img src="https://img.shields.io/badge/🔭_Currently_Building-Fraud_Detection_ML_Pipeline-D4AF37?style=for-the-badge&labelColor=1A1A1A&color=D4AF37&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/🌱_Currently_Learning-Python_%7C_AI%2FML-D4AF37?style=for-the-badge&labelColor=1A1A1A&color=D4AF37&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/📫_Reach_Me-ayaz.athar.44%40gmail.com-D4AF37?style=for-the-badge&labelColor=1A1A1A&color=D4AF37&logoColor=0D0D0D" />
 
 </div>
 
@@ -101,7 +101,7 @@ class Ayaz:
 ### 🕵️ Credit Card Fraud Detection
 Full ML pipeline — from synthetic data generation to model evaluation.
 
-`Python` `scikit-learn` `XGBoost` `Flask` `SMOTE`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=flat-square&logo=xgboost&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![SMOTE](https://img.shields.io/badge/SMOTE-D4AF37?style=flat-square&logoColor=0D0D0D)
 
 - 7-stage pipeline: ingestion → EDA → preprocessing → SMOTE balancing → multi-model training → evaluation
 - Precision / Recall / F1 / ROC-AUC benchmarking across models
@@ -115,7 +115,7 @@ Full ML pipeline — from synthetic data generation to model evaluation.
 ### 💼 Personal Portfolio
 Dark, editorial developer portfolio built from scratch.
 
-`HTML` `CSS` `JavaScript`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 - Glassmorphism / terminal-style UI with glowing accents
 - Animated interactive mascot with eye-tracking & speech bubbles
@@ -131,7 +131,7 @@ Dark, editorial developer portfolio built from scratch.
 ### 🐦 Flappy Boom
 Browser-based game built with vanilla JavaScript.
 
-`HTML` `CSS` `JavaScript`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 - Custom physics and collision logic
 - Lightweight, dependency-free build
@@ -144,12 +144,12 @@ Browser-based game built with vanilla JavaScript.
 ### 🤖 AI/ML Experiments
 Beginner-to-intermediate ML projects and practice repos.
 
-`Python` `Jupyter`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 - Building fluency one project at a time
 - More projects incoming as skills develop
 
-`🚧 Coming Soon`
+![Coming Soon](https://img.shields.io/badge/🚧_Coming_Soon-D4AF37?style=flat-square&labelColor=1A1A1A&color=D4AF37)
 
 </td>
 </tr>
