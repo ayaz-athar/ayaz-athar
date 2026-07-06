@@ -50,6 +50,16 @@ class Ayaz:
 * 🛠️ Prefer vanilla HTML/CSS/JS — no frameworks, full control
 * 📓 Using GitHub to document the learning journey, not just the finished product
 
+<div align="center">
+
+<br>
+
+<img src="https://img.shields.io/badge/🔭_Currently_Building-Fraud_Detection_ML_Pipeline-1A1A1A?style=flat-square&labelColor=0D0D0D&color=1A1A1A" />
+<img src="https://img.shields.io/badge/🌱_Currently_Learning-Python_%7C_AI%2FML-1A1A1A?style=flat-square&labelColor=0D0D0D&color=1A1A1A" />
+<img src="https://img.shields.io/badge/📫_Reach_Me-ayaz.athar.44%40gmail.com-1A1A1A?style=flat-square&labelColor=0D0D0D&color=1A1A1A" />
+
+</div>
+
 <br>
 
 ## `02` Tech Stack
@@ -139,7 +149,7 @@ Beginner-to-intermediate ML projects and practice repos.
 - Building fluency one project at a time
 - More projects incoming as skills develop
 
-**Coming Soon**
+`🚧 Coming Soon`
 
 </td>
 </tr>
@@ -151,16 +161,27 @@ Beginner-to-intermediate ML projects and practice repos.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayaz-athar&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E5E5E5&icon_color=D4AF37" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ayaz-athar&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=E5E5E5&currStreakNum=E5E5E5&dates=E5E5E5&sideLabels=E5E5E5" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayaz-athar&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E5E5E5&icon_color=D4AF37&hide_rank=false" />
+<img height="165" src="https://streak-stats.demolab.com?user=ayaz-athar&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=E5E5E5&currStreakNum=E5E5E5&dates=999999&sideLabels=E5E5E5&card_width=300" />
 
 <br><br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz-athar&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E5E5E5" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz-athar&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E5E5E5" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayaz-athar&bg_color=0D0D0D&color=D4AF37&line=D4AF37&point=E5E5E5&hide_border=true&area=true" width="97%" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayaz-athar&theme=dracula&no-frame=true&no-bg=true&row=1&margin-w=15&column=6" />
 
 </div>
 
+> 💡 If any card above looks blank, it's usually the stats API cold-starting or GitHub API rate limits — refreshing the page or waiting a minute fixes it.
+
 <br>
+
 
 ## `05` Learning Path
 
