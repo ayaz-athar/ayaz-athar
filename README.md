@@ -38,7 +38,6 @@ class Ayaz:
         self.role = "Frontend Developer"
         self.currently_learning = ["Python", "AI/ML"]
         self.focus = "Clean UI, smooth UX, real-world problem solving"
-
     def philosophy(self):
         return "Document the journey. Ship real projects. Keep iterating."
 ```
