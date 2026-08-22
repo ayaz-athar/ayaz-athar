@@ -11,7 +11,7 @@ Currently learning Python and exploring AI/ML through real-world projects.
 
 <br>
 
-<a href="https://ayaz-portfolio-five.vercel.app/">
+<a href="https://ayazathar.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
