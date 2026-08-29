@@ -116,7 +116,7 @@
   <a href="https://github.com/ayaz-athar">
     <img src="https://img.shields.io/badge/GitHub-ayaz--athar-092328?style=for-the-badge&logo=github&logoColor=8BBB92&labelColor=12544F" alt="GitHub"/>
   </a>
-  <a href="https://instagram.com/ayazathar">
+  <a href="https://instagram.com/_ayazathar">
     <img src="https://img.shields.io/badge/Instagram-@ayazathar-12544F?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=092328" alt="Instagram"/>
   </a>
 
